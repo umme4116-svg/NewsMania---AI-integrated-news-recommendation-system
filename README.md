@@ -1,6 +1,6 @@
 # NewsMania - Full-Stack MERN News Application
 
-A comprehensive news aggregation platform built with the MERN stack, focusing on Indian and International news with AI-powered summaries, personalization, and admin moderation features.
+A comprehensive news aggregation platform built with the MERN stack, focusing on Indian and International news, personalization, and admin moderation features.
 
 ![NewsMania](https://img.shields.io/badge/NewsMania-v1.0.0-blue)
 ![MERN](https://img.shields.io/badge/Stack-MERN-green)
