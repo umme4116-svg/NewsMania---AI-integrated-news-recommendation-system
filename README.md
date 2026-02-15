@@ -16,7 +16,6 @@ A comprehensive news aggregation platform built with the MERN stack, focusing on
 - ✅ **Like/Unlike**: Interactive like system with count
 - ✅ **Bookmarking**: Save articles for later reading
 - ✅ **Social Sharing**: Share on WhatsApp, Facebook, X (Twitter), LinkedIn, and Copy Link
-- ✅ **AI Summaries**: 2-3 sentence summaries generated using HuggingFace AI
 - ✅ **Sentiment Analysis**: Optional sentiment labeling (Positive/Neutral/Negative)
 - ✅ **Search**: Keyword-based news search with error handling
 - ✅ **Dark/Light Mode**: Toggle between themes
@@ -34,7 +33,7 @@ A comprehensive news aggregation platform built with the MERN stack, focusing on
 - ✅ **Error Handling**: Comprehensive error messages and fallback mechanisms
 - ✅ **JWT Authentication**: Secure token-based authentication
 - ✅ **Role-Based Access Control**: Admin and user roles
-- ✅ **MongoDB Atlas**: Cloud database integration
+- ✅ **MongoDB Local**: database integration
 - ✅ **Deployment Ready**: Configured for Vercel (frontend) and Render (backend)
 
 ## 📋 Prerequisites
@@ -273,7 +272,6 @@ Full API documentation available at `/api-docs` when backend is running.
 ### External APIs
 - newsdata.io API
 - newsapi.org API
-- HuggingFace AI API (for summaries and sentiment)
 
 ## 📝 License
 
@@ -281,20 +279,15 @@ This project is licensed under the MIT License.
 
 ## 👥 Authors
 
-- Your Name - Initial work
+- Umme kulsum - Initial work
 
 ## 🙏 Acknowledgments
 
 - newsdata.io for news API
 - newsapi.org for news API
-- HuggingFace for AI models
 - All open-source contributors
 
-## 📞 Support
 
-For support, email support@newsmania.com or create an issue in the repository.
 
----
 
-**Note**: This is a final-year project submission. All features are fully functional and deployment-ready.
 
